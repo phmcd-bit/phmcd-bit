@@ -1,7 +1,7 @@
 ```python
 >>> pedro.info()
 <class 'pandas.DataFrame'>
-RangeIndex: 1 humano, "interior de PE → João Pessoa"
+RangeIndex: 1 humano, "Itapetim → João Pessoa"
 
  #   campo     valor
 ---  --------  --------------------------------
